@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\Parse-1.9.2-51e0a2da12622cc1837190d3a76a6eea48d6d3a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-f98d8431e7f8a3e5d1c81f600a308017257b2581.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-e9849c4e059cba6bd2cc5f21f5633eeefb32edf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-94f44d58a2c6ad32c77e21e267872deeed7062ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-d58853ff61f0f63603ade58aa7ef93c0ac94c55b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-9d07a9c6bd0729d259709a3832856354e8223bdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-a89e1a563f289e7a9044a810e8588abf9ac68917.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-b2a646919abd3c1b9ba2b60d7fb1ca1d0d444125.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-4a5b18e038dd48ed32d1794d3349fa40321696e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-226844fa0ad8c08628f902e9bcc5804c0904cf5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-96c195fd1cc13e92dd3f0fee6a389e23b028a2c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-1ff5878323f959f0b9abc9334a31048435001396.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-3b3b01a377196ec591f81e013095d23425a3be6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-5c93a4250498f2acf9ccb40a4f74ea09fb9b911f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-c24996b4f5167101d4ab95664562556e3834097b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-e1b766d74834d1d4a2573959a2f83fef2f8ca14f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-72ec5ced50d1ed4dc0db209413d5beea9c1af2aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-030e622d81549625b1f1e55a4841f1246cd91494.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7a7f71545d0f588142e292b394ae51af0ba2d5b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-26d75669e2eb915bc00aaad7c30127dd42285ee1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-342d55e07f33aed52078a9d637067a797db885d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-d0d4fe1961f6c518edaa60467703b9ced4bb8f99.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-01454a1201e45acb65cbe7b334720d7a98be2dc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-1bee3cf8171e8302d9f350cf93db2aa7d1aee2b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f93d59df00316716508ac6a7ef57f452dbc8a897.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-692d4f17e3219a7f33471b6856553927753d5b4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-bee0b119f8f187f93a68098a320d539e4f6a7d1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-b59990527a856b1b270d2d36cb1072074f41c76b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-d612f681478b75ee38a2227de34002a80507d0f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-ccde683844c35ce515a8823bdf106dfecfad35e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fahad\git\YouMp3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Fahad\git\YouMp3\app\build\intermediates\pre-dexed\debug\classes-1f73c3103b64b1af200a288471e8c75eaf25521e.jar" />
+    </item>
+
+</items>
