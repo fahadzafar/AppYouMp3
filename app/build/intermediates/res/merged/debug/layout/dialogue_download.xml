@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="7dp"
+        android:layout_height="7dp" />
+
+    <TextView
+        android:paddingLeft="3dp"
+        android:id="@+id/dialogInfoTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF" />
+
+    <View
+        android:layout_width="7dp"
+        android:layout_height="7dp" />
+
+    <TextView
+        android:paddingLeft="3dp"
+        android:id="@+id/dialogInfoDescription"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF" />
+
+    <View
+        android:layout_width="7dp"
+        android:layout_height="7dp" />
+
+    <Button
+        android:id="@+id/dialogButtonCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:enabled="false"
+        android:text=" Cancel " />
+
+</LinearLayout><!-- From: file:/C:/Users/Fahad/git/YouMp3/app/src/main/res/layout/dialogue_download.xml -->

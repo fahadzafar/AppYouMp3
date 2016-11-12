@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:orientation="vertical" >
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/info_banner"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-9944164396972843/4320023248"
+            android:visibility="visible" >
+        </com.google.android.gms.ads.AdView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="General Information"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/info_paid_tokens"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Paid tokens: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/info_free_tokens"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Free tokens: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/info_total_tokens"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Total tokens: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/info_free_tokens_reset_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Free token reset date: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="1dip"
+                android:text="Each token allows you to download 1 audio file from Youtube. Free token limit is reset to 25 every month. Paid tokens do not expire."
+                android:textColor="#aaaaaa"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/info_download_duration_limit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Download duration limit is: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+
+            <TextView
+                android:id="@+id/info_show_ads"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Ads are: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+            
+                 <TextView
+                android:id="@+id/info_priority"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Your priority level is: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+            
+
+            <TextView
+                android:id="@+id/info_download_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Your audio download location is: "
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="1dip"
+                android:text="YouMp3 should show up as an album under any audio player."
+                android:textColor="#aaaaaa"
+                android:textSize="12sp" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+
+            <include
+                layout="@layout/line"
+                android:paddingBottom="0dp" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="Extra Information"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="1dip"
+                android:text="Shows server status and messages from the app author."
+                android:textColor="#aaaaaa"
+                android:textSize="12sp" />
+
+            <ListView
+                android:id="@+id/info_author_messages"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:background="#aaaaaa"
+                android:dividerHeight="3dp" >
+            </ListView>
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+
+            <include
+                layout="@layout/line"
+                android:paddingBottom="0dp" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="How it works ?"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="1. Search for a video that you want to strip off audio from Youtube."
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="2. Click on the video and click download in the popup panel. You can watch the video in a mini preview as well."
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="3. Click &apos;My Queue&apos; to see the position of your processing job. Our server will do all the work for you. You can delete items in the queue by pressing on them."
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="4. Once your processing job is finished it will automatically be downloaded to your phone after you press &apos;Refresh&apos;. The job must be completed before you press the &apos;Refresh&apos; button for automatic download."
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:text="5. Your file will be saved on the server till you login again and it is fully downloaded to your phone ^_^"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <View
+                android:layout_width="7dp"
+                android:layout_height="7dp" />
+
+            <include
+                layout="@layout/line"
+                android:paddingBottom="0dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

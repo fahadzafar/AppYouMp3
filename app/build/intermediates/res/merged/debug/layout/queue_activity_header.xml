@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/view_queue_banner"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-9944164396972843/5964880041"
+        android:visibility="visible" >
+    </com.google.android.gms.ads.AdView>
+
+</LinearLayout><!-- From: file:/C:/Users/Fahad/git/YouMp3/app/src/main/res/layout/queue_activity_header.xml -->

@@ -1,0 +1,7 @@
+ <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/avatar"
+                android:layout_width="140dp"
+                android:layout_height="50dp"
+                android:src="@drawable/app_icon_50"
+                   android:background="#1789C2" />
+

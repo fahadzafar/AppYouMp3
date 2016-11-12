@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/queue_refresh"
+        android:showAsAction="always|withText"
+        android:title="Refresh"/>
+</menu>
+<!-- From: file:/C:/Users/Fahad/git/YouMp3/app/src/main/res/menu/queue_actionbar.xml -->

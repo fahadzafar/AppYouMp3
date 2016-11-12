@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:keepScreenOn="true"
+    android:minHeight="450dip"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:scrollbars="vertical" >
+
+        <View
+            android:layout_width="7dp"
+            android:layout_height="7dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:text="Packages"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <include
+            layout="@layout/line"
+            android:paddingBottom="0dp" />
+
+        <View
+            android:layout_width="17dp"
+            android:layout_height="17dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="Bronze"
+            android:textSize="20dip"
+            android:textStyle="italic" >
+        </TextView>
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="94dp"
+            android:layout_height="94dp"
+            android:src="@drawable/bronze_icon" />
+
+        <TextView
+            android:id="@+id/upgrades_remove_ads"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="- Remove all ads.\n
+- Increases your priority to 7."
+            android:textSize="16dip" >
+        </TextView>
+
+        <Button
+            android:id="@+id/upgrades_button_bronze"
+            android:layout_width="160dip"
+            android:layout_height="wrap_content"
+            android:text="Buy " 
+                android:background="#1789C2"
+                android:textColor="#ffffff"/>
+
+        <View
+            android:layout_width="7dp"
+            android:layout_height="7dp" />
+
+        <include
+            layout="@layout/line"
+            android:paddingBottom="0dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="Silver"
+            android:textSize="20dip"
+            android:textStyle="italic" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="94dp"
+            android:layout_height="94dp"
+            android:src="@drawable/silver_icon" />
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="- Remove all ads.\n
+- Increases your priority to 8.\n
+- Get 25 tokens."
+            android:textSize="16dip" />
+
+        <Button
+            android:id="@+id/upgrades_button_silver"
+            android:layout_width="160dip"
+            android:layout_height="wrap_content"
+            android:text="Buy " 
+            
+              android:background="#1789C2"
+                android:textColor="#ffffff"/>
+
+        <!-- GOLD PACKAGE -->
+
+        <View
+            android:layout_width="7dp"
+            android:layout_height="7dp" />
+
+        <include
+            layout="@layout/line"
+            android:paddingBottom="0dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="Gold"
+            android:textSize="20dip"
+            android:textStyle="italic" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="94dp"
+            android:layout_height="94dp"
+            android:src="@drawable/gold_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="- Remove all ads.\n
+- Increases your priority to 9.\n
+- Get 75 tokens."
+            android:textSize="16dip" />
+
+        <Button
+            android:id="@+id/upgrades_button_gold"
+            android:layout_width="160dip"
+            android:layout_height="wrap_content"
+            android:text="Buy " 
+              android:background="#1789C2"
+                android:textColor="#ffffff"/>
+
+        <!-- Platinum PACKAGE -->
+
+        <View
+            android:layout_width="7dp"
+            android:layout_height="7dp" />
+
+        <include
+            layout="@layout/line"
+            android:paddingBottom="0dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="Platinum"
+            android:textSize="20dip"
+            android:textStyle="italic" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="94dp"
+            android:layout_height="94dp"
+            android:src="@drawable/plat_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="30dip"
+            android:text="- Remove all ads.\n
+- Increases your priority to 10.\n
+- Get 150 tokens.\n
+- Increase download duration limit to 25 minutes."
+            android:textSize="16dip" />
+
+        <Button
+            android:id="@+id/upgrades_button_platinum"
+            android:layout_width="160dip"
+            android:layout_height="wrap_content"
+            android:text="Buy " 
+              android:background="#1789C2"
+                android:textColor="#ffffff"/>
+
+        <View
+            android:layout_width="7dp"
+            android:layout_height="7dp" />
+
+        <include
+            layout="@layout/line"
+            android:paddingBottom="0dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:layout_marginTop="1dip"
+            android:text="Upon purchase ad removal, priority and duration limit changes are permanent to user account. Buy once enjoy forever :)"
+            android:textColor="#aaaaaa"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:layout_marginTop="1dip"
+            android:text="Priority gets your processing done first compared to other users, higher is better (max = 10)."
+            android:textColor="#aaaaaa"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:layout_marginTop="1dip"
+            android:text="Free user priority = 5."
+            android:textColor="#aaaaaa"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="7dp"
+            android:layout_height="7dp" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/upgrades_banner"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-9944164396972843/7118065644"
+            android:visibility="visible" >
+        </com.google.android.gms.ads.AdView>
+    </LinearLayout>
+
+</ScrollView><!-- From: file:/C:/Users/Fahad/git/YouMp3/app/src/main/res/layout/upgrade_activity.xml -->

@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="3dip" >
+
+    <TextView
+        android:id="@+id/queue_item_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal"
+        android:padding="3dip" >
+
+        <TextView
+            android:id="@+id/queue_item_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:singleLine="true"
+            android:text="Duration"
+            android:textColor="#0000ff"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/queue_item_position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:singleLine="true"
+            android:text="Position in Queue"
+            android:textColor="#555555"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>
