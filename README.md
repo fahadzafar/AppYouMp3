@@ -13,12 +13,14 @@ It requires a server running at the backend that does the extraction and places 
 
 The Parse data tables that store the mp3 extraction request can be seen [here](https://drive.google.com/open?id=0BzkvMWM-w80JdWVQMTVQZFdXTXM)
 
+
 The table where the mp3 is stored after extraction can be seen [here](https://drive.google.com/open?id=0BzkvMWM-w80JaG5zR0lWU1Z6ckE)
 
-Server code for this YouMp3 app can be found at: https://github.com/fahadzafar/ServerYouMp3
-For more images 
+
+Server code for this YouMp3 app can be found [here](https://github.com/fahadzafar/ServerYouMp3)
 
 Fore more images about the ap go [here](https://drive.google.com/open?id=0BzkvMWM-w80JNFE3VVUyYTI0czQ)
+
 
 
 
