@@ -1,5 +1,5 @@
 
-![Alt text](https://github.com/fahadzafar/AppYouMp3/app/src/main/res/drawable-mdpi/logo.png)
+![](/app/src/main/res/drawable-mdpi/logo.png)
 
 #Goal of the App:
 
