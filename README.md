@@ -3,12 +3,18 @@
 
 #Goal of the App:
 
-This app strips the MP3 audio off any youtube video.
+This app strips the MP3 audio off any youtube video selected through an android app. TYhe YouTube videos are displayed in a visual list with image + title, and can be played from within the app. Once the request for mp3 extraction is submitted, the app will also download the resulting mp3 file as well.
 
-#Requirements:
 
-It requires a server running at the backend that does the extraction and places the mp3 into a Parse table that can is downloaded
-from the app. The table can be viewed [here](https://drive.google.com/file/d/0BzkvMWM-w80JWXpCRkoybmpZcnc/view?usp=sharing)
-The extraction request is placed onto the parse table and 
+
+#Description:
+
+It requires a server running at the backend that does the extraction and places the mp3 into a Parse table that can is downloaded from the app. The design of this entire application can be seen [here](https://drive.google.com/file/d/0BzkvMWM-w80JWXpCRkoybmpZcnc/view?usp=sharing)
+
+The Parse data tables that store the mp3 extraction request can be seen [here](https://drive.google.com/open?id=0BzkvMWM-w80JdWVQMTVQZFdXTXM)
+
+The table where the mp3 is stored after extraction can be seen [here](https://drive.google.com/open?id=0BzkvMWM-w80JaG5zR0lWU1Z6ckE)
 
 Server code can be found at: https://github.com/fahadzafar/ServerYouMp3
+
+
